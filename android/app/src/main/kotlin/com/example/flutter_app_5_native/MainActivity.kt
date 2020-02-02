@@ -1,4 +1,4 @@
-package com.example.flutter_app_5_native
+package dash.flutter_app_5_native_dash
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
